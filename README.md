@@ -1,2 +1,1 @@
-# jsonapi4j
-JSON:API4J
+# JSON:API4J
